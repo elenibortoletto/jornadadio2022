@@ -4,9 +4,9 @@
 
 
 
-- ## AULAS##
+- ## AULAS
 
-- ### EXERCÍCIOS PRÁTICOS###
+- ### EXERCÍCIOS PRÁTICOS
 
-- ### PROJETOS###
+- ### PROJETOS
 
